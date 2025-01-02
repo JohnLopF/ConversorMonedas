@@ -1,0 +1,4 @@
+Conversion{monedaInicial='USD', monedaFinal='COP', monto=5.0, tasaDeCambio=4406,665, resultado=22033.325}
+Conversion{monedaInicial='EUR', monedaFinal='USD', monto=50.0, tasaDeCambio=1,0364, resultado=51.82}
+Conversion{monedaInicial='COP', monedaFinal='EUR', monto=50000.0, tasaDeCambio=0,00021893, resultado=10.9465}
+Conversion{monedaInicial='COP', monedaFinal='EUR', monto=50000.0, tasaDeCambio=0,00021893, resultado=10.9465}
